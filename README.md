@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/NoahGrahamDev](https://github.com/NoahGrahamDev)
 
-- 💬 Ask me about **C, Python, or C++**
+- 💬 Ask me about **C, C++, or Python**
 
 - 📫 How to reach me **noahgrahamdev@gmail.com**
 
