@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **noahgrahamdev@gmail.com**
 
-- 📄 Learn about my experience (Resume): [copper-brianne-53.tiiny.site](Resume)
+- 📄 Learn about my experience (Resume): copper-brianne-53.tiiny.site(Resume)
 
 - ⚡ Fun fact **I love languages!**
 
