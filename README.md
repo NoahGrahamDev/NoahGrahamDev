@@ -14,7 +14,7 @@
 🔐 Interested in **cybersecurity & ethical hacking** – always looking for ways to make software more secure.  
 🌍 I love **learning languages** – both programming and human.  
 🎯 My goal? **To build meaningful software and always learn new things.**
-💡 "***GIVE*** a man a program, and he'll be occupied for a day. ***TEACH*** a man to program, and he'll be frustrated for a lifetime." -Noah Graham, 2025
+💡 "***GIVE*** a man a program, and he'll be occupied for a day. ***TEACH*** a man to program, and he'll be frustrated for a lifetime."
 
 ---
 
