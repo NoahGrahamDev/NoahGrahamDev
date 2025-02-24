@@ -15,7 +15,7 @@
 🌍 I love **learning languages** – both programming and human.  
 🎯 My goal? **To build meaningful software and always learn new things.**
 
-💡 "***GIVE*** a man a program, and he'll be occupied for a day. ***TEACH*** a man to program, and he'll be frustrated for a lifetime."
+💡 "***GIVE*** a man a program, and he'll be occupied for a day. ***TEACH*** a man to program, and he'll be occupied for a lifetime."
 
 ---
 
