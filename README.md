@@ -53,10 +53,15 @@
 
 ### 🎯 Current Goals  
 ✅ Build & optimize **Manu Search**
-✅ Research **Computer Vision & AI security**  
+
+✅ Research **Computer Vision & AI security** 
+
 🔲 Obtain the Security+ certification
+
 🔲 Obtain the Project+ certification
+
 🔲 Obtain the AWS CCP certification
+
 🔲 Contribute more to **open-source projects**  
 
 ---
