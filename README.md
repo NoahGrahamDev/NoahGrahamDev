@@ -13,7 +13,8 @@
 🧠 Diving into **Computer Vision Pose Estimation** and exploring how machines interpret human movement.  
 🔐 Interested in **cybersecurity & ethical hacking** – always looking for ways to make software more secure.  
 🌍 I love **learning languages** – both programming and human.  
-🎯 My goal? **To build meaningful software and always learn new things.**  
+🎯 My goal? **To build meaningful software and always learn new things.**
+💡 "***GIVE*** a man a program, and he'll be occupied for a day. ***TEACH*** a man to program, and he'll be frustrated for a lifetime." -Noah Graham, 2025
 
 ---
 
@@ -65,9 +66,6 @@
 📄 Resume: **[Check it out](copper-brianne-53.tiiny.site)**  
 
 ---
-
-💡 "***GIVE*** a man a program, and he'll be occupied for a day. ***TEACH*** a man to program, and he'll be frustrated for a lifetime."
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
