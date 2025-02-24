@@ -1,21 +1,71 @@
-<h1 align="center">Hi 👋, I'm Noah</h1>
-<h3 align="center">A software developer and student</h3>
+<h1 align="center">Hey there! 👋 I'm Noah Graham</h1>  
+<h3 align="center">Software Developer | Cybersecurity Enthusiast | Lifelong Learner</h3>  
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=noahgrahamdev&label=Profile%20views&color=0e75b6&style=flat" alt="noahgrahamdev" /> </p>
+<p align="center">  
+  <img src="https://komarev.com/ghpvc/?username=noahgrahamdev&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />  
+</p>  
 
-- 🔭 I’m currently working on [Manu Search](https://github.com/NoahGrahamDev/manu-search)
+---
 
-- 🌱 I’m currently learning **Computer Vision Pose Estimation**
+### 🚀 About Me  
+💻 I'm a **software developer & student** passionate about cybersecurity, low-level programming, and automation.  
+🔭 Currently working on **[Manu Search](https://github.com/NoahGrahamDev/manu-search)** – a project that makes searching easier.  
+🧠 Diving into **Computer Vision Pose Estimation** and exploring how machines interpret human movement.  
+🔐 Interested in **cybersecurity & ethical hacking** – always looking for ways to make software more secure.  
+🌍 I love **learning languages** – both programming and human (¡Hola! こんにちは!).  
+🎯 My goal? **To build meaningful software & push the boundaries of my knowledge.**  
 
-- 👨‍💻 All of my projects are available at [https://github.com/NoahGrahamDev](https://github.com/NoahGrahamDev)
+---
 
-- 💬 Ask me about **C, C++, or Python**
+### ⚡ Fun Facts  
+- 🛠 Started programming at **13** – self-taught & constantly growing.  
+- 🐧 Linux is my go-to OS (Yes, I love customizing my terminal).  
+- 🔎 Reverse engineering & security research fascinate me.  
+- 🌲 Big fan of **nature, hiking, and city life** – the best of both worlds!  
 
-- 📫 How to reach me **noahgrahamdev@gmail.com**
+---
 
-- 📄 Learn about my experience (Resume): [copper-brianne-53.tiiny.site]
+### 🛠 Tech Stack  
+**Languages:**  
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)  
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
 
-- ⚡ Fun fact **I love languages!**
+**Tools & Frameworks:**  
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)  
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)  
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)  
+
+---
+
+### 📊 GitHub Stats  
+<p align="center">  
+  <img src="https://github-readme-stats.vercel.app/api?username=NoahGrahamDev&show_icons=true&theme=tokyonight" width="48%" alt="GitHub Stats" />  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NoahGrahamDev&theme=tokyonight" width="48%" alt="GitHub Streak" />  
+</p>  
+
+---
+
+### 🎯 Current Goals  
+✅ Build & optimize **Manu Search**  
+✅ Master **Computer Vision & AI security**  
+✅ Contribute more to **open-source projects**  
+✅ Get into **cybersecurity & ethical hacking**  
+
+---
+
+### 🔗 Connect with Me  
+📧 Email: **noahgrahamdev@gmail.com**  
+🔗 GitHub: **[NoahGrahamDev](https://github.com/NoahGrahamDev)**  
+📄 Resume: **[Check it out](copper-brianne-53.tiiny.site)**  
+
+---
+
+💡 *"Any fool can write code that a computer can understand. Good programmers write code that humans can understand."* – Martin Fowler  
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
