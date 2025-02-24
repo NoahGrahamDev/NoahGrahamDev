@@ -8,19 +8,19 @@
 ---
 
 ### 🚀 About Me  
-💻 I'm a **software developer & student** passionate about cybersecurity, low-level programming, and automation.  
+💻 I'm a **software developer & student** passionate about cybersecurity, user-focused programming, and automation.  
 🔭 Currently working on **[Manu Search](https://github.com/NoahGrahamDev/manu-search)** – a project that makes searching easier.  
 🧠 Diving into **Computer Vision Pose Estimation** and exploring how machines interpret human movement.  
 🔐 Interested in **cybersecurity & ethical hacking** – always looking for ways to make software more secure.  
-🌍 I love **learning languages** – both programming and human (¡Hola! こんにちは!).  
-🎯 My goal? **To build meaningful software & push the boundaries of my knowledge.**  
+🌍 I love **learning languages** – both programming and human.  
+🎯 My goal? **To build meaningful software and always learn new things.**  
 
 ---
 
 ### ⚡ Fun Facts  
 - 🛠 Started programming at **13** – self-taught & constantly growing.  
-- 🐧 Linux is my go-to OS (Yes, I love customizing my terminal).  
-- 🔎 Reverse engineering & security research fascinate me.  
+- 🐧 Linux is my go-to OS (And no, I don't use Arch btw).  
+- 🔎 Reverse engineering & security research fascinates me.  
 - 🌲 Big fan of **nature, hiking, and city life** – the best of both worlds!  
 
 ---
@@ -50,10 +50,12 @@
 ---
 
 ### 🎯 Current Goals  
-✅ Build & optimize **Manu Search**  
-✅ Master **Computer Vision & AI security**  
-✅ Contribute more to **open-source projects**  
-✅ Get into **cybersecurity & ethical hacking**  
+✅ Build & optimize **Manu Search**
+✅ Research **Computer Vision & AI security**  
+🔲 Obtain the Security+ certification
+🔲 Obtain the Project+ certification
+🔲 Obtain the AWS CCP certification
+🔲 Contribute more to **open-source projects**  
 
 ---
 
@@ -64,7 +66,7 @@
 
 ---
 
-💡 *"Any fool can write code that a computer can understand. Good programmers write code that humans can understand."* – Martin Fowler  
+💡 "***GIVE*** a man a program, and he'll be occupied for a day. ***TEACH*** a man to program, and he'll be frustrated for a lifetime."
 
 
 <h3 align="left">Connect with me:</h3>
