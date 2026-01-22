@@ -60,7 +60,7 @@
 
 🔲 Obtain the Project+ certification
 
-🔲 Obtain the AWS CCP certification
+✅ Obtain the AWS CCP certification
 
 🔲 Contribute more to **open-source projects**  
 
