@@ -69,7 +69,6 @@
 ### 🔗 Connect with Me  
 📧 Email: **noahgrahamdev@gmail.com**  
 🔗 GitHub: **[NoahGrahamDev](https://github.com/NoahGrahamDev)**  
-📄 Resume: <a href="https://copper-brianne-53.tiiny.site" target="_blank">View my resume</a>
 
 ---
 
