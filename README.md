@@ -1,5 +1,5 @@
 <h1 align="center">Hey there! 👋 I'm Noah Graham</h1>  
-<h3 align="center">Software Developer | Cybersecurity Enthusiast | Lifelong Learner</h3>  
+<h3 align="center">Cybersecurity Expert | Software Developer | Lifelong Learner</h3>  
 
 <p align="center">  
   <img src="https://komarev.com/ghpvc/?username=noahgrahamdev&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />  
@@ -51,18 +51,17 @@
 
 ---
 
-### 🎯 Current Goals  
+### 🎯 Current Goals
+🔲 Obtain the CISSP Certification
+
 ✅ Build & optimize **Manu Search**
 
-✅ Research **Computer Vision & AI security** 
+✅ Learn About **AI security** 
 
-🔲 Obtain the Security+ certification
-
-🔲 Obtain the Project+ certification
+✅ Obtain the Security+ certification
 
 ✅ Obtain the AWS CCP certification
-
-🔲 Contribute more to **open-source projects**  
+  
 
 ---
 
