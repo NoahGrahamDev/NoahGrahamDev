@@ -63,15 +63,10 @@ I started programming at 13 and have been building, breaking, and learning ever 
 
 ### GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NoahGrahamDev&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true" width="48%" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com?user=NoahGrahamDev&amp;theme=tokyonight&amp;hide_border=true" width="48%" alt="GitHub Streak" />
+  <a href="https://github.com/NoahGrahamDev">
+    <img src="https://streak-stats.demolab.com?user=NoahGrahamDev&theme=tokyonight&hide_border=true" width="48%" alt="Noah Graham's GitHub Streak" />
+  </a>
 </p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NoahGrahamDev&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true" alt="Top Languages" />
-</p>
-
 ---
 
 ### Connect
